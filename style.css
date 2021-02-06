@@ -47,3 +47,15 @@ html {
 #inspiration {
       background: linear-gradient( #bfff00 0%,#315C2B 100%);
 }
+#welcome {
+    padding: 70px;
+    text-align: center;
+}
+#author1 {
+    margin: 20px;
+} 
+a img {
+    height: 300px;
+    width: 300px;
+    margin: 25px
+}
